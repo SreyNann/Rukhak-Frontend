@@ -1,0 +1,11 @@
+.charts {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem;
+  .line-chart {
+    flex: 1;
+    position: relative;
+    aspect-ratio: 4 / 2;
+    height: auto;
+  }
+}
